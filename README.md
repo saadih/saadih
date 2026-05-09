@@ -8,5 +8,5 @@ Computer engineering grad from Chalmers. I build things: multiplayer systems on 
 
 ### 📊 GitHub Activity
 
-![Saadih's GitHub stats](http://ekkksksw0sw4s4gsskgs0cw4.103.177.249.185.sslip.io/api?username=saadih&show_icons=true&theme=github_dark)
-![Top Langs](http://ekkksksw0sw4s4gsskgs0cw4.103.177.249.185.sslip.io/api/top-langs/?username=saadih&layout=compact&theme=github_dark)
+![Saadih's GitHub stats](https://saadih.work/api?username=saadih&show_icons=true&theme=github_dark)
+![Top Langs](https://saadih.work/api/top-langs/?username=saadih&layout=compact&theme=github_dark)
