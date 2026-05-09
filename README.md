@@ -1,4 +1,4 @@
-Hey, I'm Hussein 
+Hey, I'm Hussein 👋
 
 Currently building Opmore, turning companies AI-native. Let's connect!
 
@@ -9,4 +9,4 @@ Computer engineering grad from Chalmers. I build things: multiplayer systems on 
 
 ---
 
-[LinkedIn](https://linkedin.com/in/husseinalsaadi) 路 [Email](mailto:hussein.alsaadi@proton.me)
+[LinkedIn](https://linkedin.com/in/husseinalsaadi)
