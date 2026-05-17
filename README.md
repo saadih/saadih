@@ -2,7 +2,7 @@
 
 > Currently building Opmore, turning companies AI-native. Let's connect!
 
-Computer engineering grad from Chalmers. I build things: systems on the Roblox platform (30M+ visits), full-stack web apps, and other stuff that looks fun to do.
+Computer engineering grad from Chalmers. I build things: systems on the Roblox platform (millions of visits), full-stack web apps, and other stuff that looks fun to do.
 
 ---
 
