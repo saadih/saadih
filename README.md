@@ -1,6 +1,6 @@
 ### Hey, I'm Hussein 👋
 
-> Currently building Opmore and other fun stuff. Let's connect!
+> Building stuff here and there sometimes
 
 Computer engineering grad. I build things: systems on the Roblox platform (millions of visits), full-stack web apps, and other stuff that looks fun to do.
 
